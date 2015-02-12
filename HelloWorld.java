@@ -4,4 +4,8 @@ public class HelloWorld{
 		System.out.println("Hello Wrld!");
 
 	}
+
+	private void bigFeature(){
+		int a=1;
+	}
 }
